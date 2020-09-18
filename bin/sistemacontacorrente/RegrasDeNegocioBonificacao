@@ -1,0 +1,13 @@
+1. Regra bonificacao 1: bonus ad-hoc, valor distribuído
+de acordo com a vontade do nível superior
+
+2. Regra bonificacao 2: valor percentual do salário
+de acordo com o cargo. Ex: Funcionario2: bonus de 5%
+Gerente2: bonus de 15%
+
+3. Regra bonificacao 3: valor percentual base + 
+um valor fixo dependendo do cargo.
+Ex: Funcionario2: bonus base + zero
+Gerente3: bonus base + 5000
+OBS: cuidado na hora da implementação
+Problema em relação a qual é o bonus base
