@@ -1,19 +1,37 @@
-package sistemacontacorrente;
+package sistemaContaCorrente;
 
-public class Gerente2 extends Funcionario2{
-	int senha;
+public class Gerente2 extends Funcionario implements AcessoInterno {
+	private int senha;
 	
-	double getBonus() {//15% do salario para o gerente
-		return this.salario * 0.15;
+	@Override
+	public double getBonus() {
+		return (super.getSalario() * 0.5) + 5000;
 	}
 	
 	public boolean verifica(int senha) {
 		if(this.senha == senha) {
 			System.out.println("Acesso autorizado!");
 			return true;
-		} else {
-			System.out.println("Acesso não autorizado!");
+		}
+		else {
+			System.out.println("Acesso negado!");
 			return false;
 		}
 	}
+
+	public int getSenha() {
+		return senha;
+	}
+
+	public void setSenha(int senha) {
+		this.senha = senha;
+	}
+
+	@Override
+	
+	public boolean verifica(String senha) {
+		// TODO Auto-generated method stub
+		return false;
+	}
 }
+

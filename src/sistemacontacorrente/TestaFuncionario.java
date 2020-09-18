@@ -1,13 +1,19 @@
-package sistemacontacorrente;
+package sistemaContaCorrente;
 
 public class TestaFuncionario {
+
 	public static void main(String[] args) {
-		Funcionario f1 = new Funcionario();
-		f1.nome = "Clayton";
-		f1.salario = 1000;
-		f1.status = "ativo";
-		System.out.println("Salario: "+f1.salario);
-		f1.bonificar(500);
-		System.out.println("Salario Natal: "+f1.salario);
+		
+//		//classe abstrata não instancia
+//		Funcionario f1 = new Funcionario();
+//		f1.setNome("Rodrigo");
+//		f1.setSalario(20000);
+//		f1.setStatus("ativo");
+//		
+//		//f1.bonificar(5000);
+//		
+//		System.out.println(f1);
+		
 	}
+
 }

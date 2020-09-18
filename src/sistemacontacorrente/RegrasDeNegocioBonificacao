@@ -1,7 +1,7 @@
-1. Regra bonificacao 1: bonus ad-hoc, valor distribu√≠do
-de acordo com a vontade do n√≠vel superior
+1. Regra bonificacao 1: bonus ad-hoc, valor distribuÌdo
+de acordo com a vontade do nÌvel superior
 
-2. Regra bonificacao 2: valor percentual do sal√°rio
+2. Regra bonificacao 2: valor percentual do sal·rio
 de acordo com o cargo. Ex: Funcionario2: bonus de 5%
 Gerente2: bonus de 15%
 
@@ -9,5 +9,5 @@ Gerente2: bonus de 15%
 um valor fixo dependendo do cargo.
 Ex: Funcionario2: bonus base + zero
 Gerente3: bonus base + 5000
-OBS: cuidado na hora da implementa√ß√£o
-Problema em rela√ß√£o a qual √© o bonus base
+OBS: cuidado na hora da implementaÁ„o
+Problema em relaÁ„o a qual È o bonus base
