@@ -1,4 +1,4 @@
-package sistemaContaCorrente;
+package sistemacontacorrente;
 
 public class Conta2 {
 

@@ -1,11 +1,11 @@
-package sistemaContaCorrente;
+package sistemacontacorrente;
 
 public class Conta {
 
 	private int numero;
-	private String nome;
+	String nome;
 	private double saldo;
-	private double limite;
+	double limite;
 	
 	public int getNumero() {
 		return numero;

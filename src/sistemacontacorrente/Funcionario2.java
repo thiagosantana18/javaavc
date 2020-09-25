@@ -61,4 +61,9 @@ public class Funcionario2 {
 	double getBonus() {//5% do salario para o func comum
 		return this.salario * 0.05;
 	}
+
+	boolean verifica(String senha) {
+		// TODO Auto-generated method stub
+		return false;
+	}
 }

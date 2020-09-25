@@ -1,4 +1,4 @@
-package sistemaContaCorrente;
+package sistemacontacorrente;
 
 public class Gerente2 extends Funcionario implements AcessoInterno {
 	private int senha;

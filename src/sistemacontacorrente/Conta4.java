@@ -1,4 +1,4 @@
-package sistemaContaCorrente;
+package sistemacontacorrente;
 
 
 //Conta4 = Conta3 + conteúdo static

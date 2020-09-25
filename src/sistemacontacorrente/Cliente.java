@@ -1,10 +1,10 @@
-package sistemaContaCorrente;
+package sistemacontacorrente;
 
 public class Cliente implements AcessoInterno{
 
-	private String nome;
+	String nome;
 	private String sobrenome;
-	private String cpf;
+	String cpf;
 	
 	public String getNome() {
 		return nome;

@@ -27,12 +27,9 @@ public class TesteExceptionDepois {
 		} catch (ArrayIndexOutOfBoundsException e) {
 			System.out.println("Erro pego: "+e);
 		}
-		
 		System.out.println("Fim do metodo2");
-		
 	}
 }
-
 //main
 //met1
 //met2

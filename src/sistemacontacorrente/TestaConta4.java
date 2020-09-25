@@ -1,6 +1,6 @@
-package sistemaContaCorrente;
+package sistemacontacorrente;
 
-public class testaConta4 {
+public class TestaConta4 {
 
 	public static void main(String[] args) {
 		Conta4 c1 = new Conta4("Railton","2345");

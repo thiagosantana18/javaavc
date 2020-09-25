@@ -1,6 +1,6 @@
-package sistemaContaCorrente;
+package sistemacontacorrente;
 
-public class Gerente extends FuncionarioEspecial{
+public class Gerente extends Funcionario2{
 	private int senha;
 	
 	@Override
