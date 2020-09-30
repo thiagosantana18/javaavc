@@ -22,6 +22,6 @@ public class TestaMath {
 //Implementar classes de testes para os seguintes
 //métodos de Math: usar e depois como comentário explicar
 //o que faz: random(), max, min, ceil, floor, exp, log, pow
-//sqrt, sin, toDegrees, to Radians
+//sqrt, sin, toDegrees, toRadians
 	}
 }
