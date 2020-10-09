@@ -1,4 +1,4 @@
-package sistemaContaCorrente;
+package sistemacontacorrente;
 
 //Classe abstrata não precisa implementar metodos abstratos dos pais abstratos
 

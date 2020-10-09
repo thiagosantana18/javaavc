@@ -1,4 +1,4 @@
-package sistemaContaCorrente;
+package sistemacontacorrente;
 
 //abstract Funcionario
 // -> abs FuncionarioEspecial (verifica) ext Funcionario

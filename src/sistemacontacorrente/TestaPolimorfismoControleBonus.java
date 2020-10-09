@@ -1,4 +1,4 @@
-package sistemaContaCorrente;
+package sistemacontacorrente;
 
 public class TestaPolimorfismoControleBonus {
 
@@ -10,7 +10,7 @@ public class TestaPolimorfismoControleBonus {
 //		controle.setTotalBonus(f1);
 //		System.out.println(controle.getTotalBonus());
 		
-		Funcionario g1 = new Gerente();
+		Gerente g1 = new Gerente();
 		g1.setSalario(10000);
 		controle.setTotalBonus(g1);
 		System.out.println(controle.getTotalBonus());
