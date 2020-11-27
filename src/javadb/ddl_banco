@@ -1,0 +1,15 @@
+CREATE TABLE contatos (
+	id BIGINT NOT NULL AUTO_INCREMENT,
+	nome VARCHAR(255),
+	email VARCHAR(255),
+	endereco VARCHAR(255),
+	PRIMARY KEY(id)
+);
+
+\connect --mysql root@localhost:3306
+\sql
+show databases;
+use test;
+show tables;
+desc contatos;
+describe contatos;
