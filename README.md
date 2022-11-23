@@ -1,2 +1,2 @@
 # javaavc
-Repositório com código das aulas de Java 2
+Repositório com Códigos das Aulas de Java II (Senac)
